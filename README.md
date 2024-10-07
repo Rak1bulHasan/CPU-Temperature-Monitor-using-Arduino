@@ -9,5 +9,5 @@ This Project shows the temperature data extracted from OpenHardwareMonitor and s
   3. Administrator privilages must be given when running the code so that OpenHardwareMonitor can access temperature data.
   ## Arduino
   1. ```LiquidCrystal_I2C``` and ```SoftwareSerial``` libraries must be installed on the Arduino IDE.
-  2. Make sure that i2c address matches the i2c modules address. 
+  2. Make sure that i2c address matches the i2c module's address. 
      
